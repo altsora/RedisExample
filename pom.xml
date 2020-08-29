@@ -21,10 +21,6 @@
         </plugins>
     </build>
 
-    <properties>
-        <logging.version>2.12.0</logging.version>
-    </properties>
-
     <dependencies>
         <!-- https://mvnrepository.com/artifact/redis.clients/jedis -->
         <dependency>
